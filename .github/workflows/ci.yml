@@ -1,4 +1,4 @@
-name: C Calculator CI Pipeline
+  name: C Calculator CI Pipeline
 
 on:
   push:
